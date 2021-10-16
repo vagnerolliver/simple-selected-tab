@@ -1,1 +1,1 @@
-![image](./src/assets/image-2.jpg)
+![image](./src/assets/image-3.jpg)
