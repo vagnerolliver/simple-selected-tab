@@ -1,0 +1,26 @@
+.wrapper-tabs {
+  padding: 2rem;
+  background: yellow;
+  font-family: sans-serif;
+  text-align: center;
+}
+.tabs {
+  background-color: black;
+  display: flex;
+  align-items: stretch;
+  height: 60px;
+}
+
+.tabs span {
+  border-bottom: 2px solid#e2e2e2;
+  display: block;
+  text-align: center;
+  color: white;
+  line-height: 60px;
+  width: 50%;
+}
+
+.tabs span.active {
+  border-color: green;
+  color: green;
+}
