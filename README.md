@@ -1,2 +1,1 @@
-# simple-selected-tab
-Created with CodeSandbox
+![image](./src/assets/image.jpg)
